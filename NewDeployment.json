@@ -1,0 +1,34 @@
+[ {
+  "serial" : 159821,
+  "installationTime" : 1545897681373,
+  "removalTime" : 0,
+  "deploymentTime" : 1545897681373,
+  "vin" : "YV1672MK8C2000000"
+
+},
+{
+  "serial" : 159822,
+  "installationTime" : 1545598025041,
+  "removalTime" : 0,
+  "deploymentTime" : 1545598025041,
+  "vin" : "WVWAA7AJ8CW000000"
+
+},
+{
+  "serial" : 159823,
+  "installationTime" : 1545291158337,
+  "removalTime" : 0,
+  "deploymentTime" : 1545291158337,
+  "vin" : "1T2BF1FK4C6000000"
+
+},
+{
+  "serial" : 159824,
+  "installationTime" : 1545798461407,
+  "removalTime" : 0,
+  "deploymentTime" : 1545798461407,
+  "vin" : "JS2RE9A16C6000000"
+
+}
+
+ ]

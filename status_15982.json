@@ -1,0 +1,85 @@
+[ {
+  "serial" : 15982,
+  "configId" : 397749,
+  "eventStart" : 1424892534780,
+  "reportTimestamp" : 1424892671547,
+  "duration" : 136767,
+  "inProgress" : false,
+  "cellSignalStrength" : -79.0,
+  "maxSpeed" : 167.83311,
+  "location" : {
+    "latitude" : 39.865239,
+    "longitude" : -86.047258,
+    "accuracy" : 3.1750002,
+    "heading" : 3.8220398,
+    "speed" : 148.23816,
+    "gpsTimestamp" : 1424892670832
+  },
+  "optionalParams" : {
+    "odometer" : 137718.0,
+    "batteryVoltage" : 14.207415
+  }
+ }, {
+  "serial" : 15982,
+  "configId" : 397749,
+  "eventStart" : 1424891923207,
+  "reportTimestamp" : 1424891981804,
+  "duration" : 58597,
+  "inProgress" : false,
+  "cellSignalStrength" : -111.0,
+  "maxSpeed" : 163.214,
+  "location" : {
+    "latitude" : 39.805260,
+    "longitude" : -86.056015,
+    "accuracy" : 2.3470001,
+    "heading" : 200.91467,
+    "speed" : 153.432966,
+    "gpsTimestamp" : 1424891981655
+  },
+  "optionalParams" : {
+    "odometer" : 137622.0,
+    "batteryVoltage" : 14.591832
+  }},
+  {
+   "serial" : 15982,
+   "configId" : 397749,
+   "eventStart" : 1424891923207,
+   "reportTimestamp" : 1424891981804,
+   "duration" : 58597,
+   "inProgress" : false,
+   "cellSignalStrength" : -111.0,
+   "maxSpeed" : 163.214,
+   "location" : {
+     "latitude" : 39.752606,
+     "longitude" : -86.032672,
+     "accuracy" : 2.3470001,
+     "heading" : 200.91467,
+     "speed" : 153.432966,
+     "gpsTimestamp" : 1424891981655
+   },
+   "optionalParams" : {
+     "odometer" : 137622.0,
+     "batteryVoltage" : 14.591832
+   }},
+   {
+    "serial" : 15982,
+    "configId" : 397749,
+    "eventStart" : 1424891923207,
+    "reportTimestamp" : 1424891981804,
+    "duration" : 58597,
+    "inProgress" : false,
+    "cellSignalStrength" : -111.0,
+    "maxSpeed" : 163.214,
+    "location" : {
+      "latitude" : 39.699945,
+      "longitude" : -86.126222,
+      "accuracy" : 2.3470001,
+      "heading" : 200.91467,
+      "speed" : 153.432966,
+      "gpsTimestamp" : 1424891981655
+    },
+    "optionalParams" : {
+      "odometer" : 137622.0,
+      "batteryVoltage" : 14.591832
+    }
+} ]
